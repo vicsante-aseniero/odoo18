@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -197,7 +196,9 @@ odoo/filestore
 # maintenance migration scripts
 odoo/addons/base/maintenance
 # window installation config file
-/odoo.conf
+odoo.conf
+# node link
+node
 
 # generated for windows installer?
 install/win32/*.bat
@@ -225,4 +226,3 @@ package.json
 /man/
 /share/
 /src/
->>>>>>> aa1d102c (Initial commit)
